@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-JavaScript based Game
+JavaScript based Game Link: https://statuesque-basbousa-46e2ad.netlify.app/
 
 <img width="1512" alt="Screenshot 2024-02-15 at 7 39 27 PM" src="https://github.com/protonpluss/Tic-Tac-Toe/assets/149289690/1ba132c9-0db5-4c89-8413-910fc5d18aa0">
 
